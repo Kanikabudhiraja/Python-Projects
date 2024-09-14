@@ -1,0 +1,13 @@
+Good [morning/afternoon/evening], everyone!
+
+Recently, the All India Institute of Medical Sciences (AIIMS) in New Delhi faced a ransomware attack in November 2022. Imagine the chaos when critical patient data got encrypted faster than you can say “emergency room!” The attack was so severe that the hospital’s digital services were down, forcing them to go old-school with manual processes. It was like turning a high-tech hospital into a vintage one-room clinic!
+
+First of all, thanks for giving us the chance to present at this hackathon. We’re thrilled to introduce our project, 'Defenders of the Digital Realm: Ransomware Detection Reimagined.'
+
+I’m [Your Name], and I’m the [your role, e.g., team leader, cybersecurity analyst]. With me are [Team Member 1's Name], our [role, e.g., data scientist]; [Team Member 2's Name], our [role, e.g., frontend developer]; and [Team Member 3's Name], our [role, e.g., network security expert]. We’re like the Avengers of cybersecurity, but with less smashing and more coding!
+
+Our project began with a serious problem: ransomware attacks are becoming sneakier and harder to detect. This image shows how quickly new ransomware variants are emerging, like trying to chase a cat that keeps changing colors. It’s a real challenge staying ahead!
+
+We saw this as a significant opportunity to make a difference. Our tool provides real-time information about ransomware threats, kind of like having a digital superhero watching over your data—minus the capes and with a lot more algorithms.
+
+So, without further ado, I’ll hand it over to Rohit, our brilliant data scientist, to explain how we turned this idea into a practical solution. Rohit?
